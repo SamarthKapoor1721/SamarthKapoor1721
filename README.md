@@ -5,30 +5,28 @@
 <div align="center">
 
 <!-- ━━━━━━━━━━━━━━━ HEADER BANNER ━━━━━━━━━━━━━━━ -->
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=YOUR_NAME&fontSize=70&fontColor=ff00ff&animation=fadeIn&fontAlignY=38&desc=%3C%20Full-Stack%20Dev%20%2F%2F%20AI%20%2F%20ML%20Engineer%20%3E&descAlignY=58&descSize=18&descColor=00ffff" />
+<a href="https://github.com/SamarthKapoor1721">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Samarth+Kapoor&fontSize=70&fontColor=ff00ff&animation=fadeIn&fontAlignY=38&desc=%3C%20Full-Stack%20Dev%20%2F%2F%20AI%20%2F%20ML%20Engineer%20%3E&descAlignY=58&descSize=18&descColor=00ffff" />
 </a>
 
 <!-- ━━━━━━━━━━━━━━━ TYPING ANIMATION ━━━━━━━━━━━━━━━ -->
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/SamarthKapoor1721">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%3E+building+full-stack+AI+apps+%E2%9A%A1;%3E+react+%2B+next.js+%2B+fastapi+%3D+%E2%9D%A4%EF%B8%8F;%3E+java+enterprise+by+day%2C+ML+by+night;%3E+docker+compose+up+--build+%F0%9F%90%B3;%3E+from+future+import+intelligence" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- ━━━━━━━━━━━━━━━ SOCIAL BADGES ━━━━━━━━━━━━━━━ -->
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-FF00FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://huggingface.co/YOUR_USERNAME"><img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/samarthkapoor1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:samarthkapoorr1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://huggingface.co/SamarthKapoor1721"><img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black" /></a>
 
 <br/>
 
 <!-- ━━━━━━━━━━━━━━━ PROFILE VIEWS ━━━━━━━━━━━━━━━ -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=ff00ff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=00ffff&labelColor=000000" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=STARS&style=for-the-badge&color=ffff00&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=SamarthKapoor1721&label=PROFILE+VIEWS&color=ff00ff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/SamarthKapoor1721?label=FOLLOWERS&style=for-the-badge&color=00ffff&labelColor=000000" />
+<img src="https://img.shields.io/github/stars/SamarthKapoor1721?label=STARS&style=for-the-badge&color=ffff00&labelColor=000000" />
 
 </div>
 
@@ -39,9 +37,9 @@
 ```python
 class Engineer:
     def __init__(self):
-        self.name        = "YOUR_NAME"
+        self.name        = "Samarth Kapoor"
         self.role        = "ML / AI Engineer  &&  Full-Stack Dev"
-        self.location   = "Earth → Latent Space"
+        self.location    = "India → Latent Space"
         self.languages   = ["Python", "JavaScript", "TypeScript", "Java", "SQL"]
         self.frontend    = ["React", "Next.js", "Tailwind"]
         self.backend     = ["FastAPI", "Django", "Spring Boot", "Node.js"]
@@ -116,12 +114,12 @@ print(me.life_philosophy())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamarthKapoor1721&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthKapoor1721&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=synthwave&hide_border=true&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=FF00FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamarthKapoor1721&theme=synthwave&hide_border=true&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=FF00FF" />
 
 </div>
 
@@ -131,7 +129,7 @@ print(me.life_philosophy())
 
 <div align="center">
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/SamarthKapoor1721/SamarthKapoor1721/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -141,7 +139,7 @@ print(me.life_philosophy())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SamarthKapoor1721&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -151,11 +149,21 @@ print(me.life_philosophy())
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" />
+| 🚀 Project | 💡 About | 🔗 Live |
+|---|---|---|
+| **Convoss** | Real-time conversational app | [![Live](https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=render&logoColor=white)](https://convoss.onrender.com/) |
+| **CalTrack** | Smart calorie & fitness tracker | [![Live](https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=render&logoColor=white)](https://caltrack-6c2q.onrender.com/) |
+| **Talking Rabbit AI** | AI-powered conversational agent | [![Live](https://img.shields.io/badge/Live-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://talkingrabbitai.streamlit.app/) |
+| **FinShield AI** | AI finance protection & insights | [![Live](https://img.shields.io/badge/Live-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://finshieldai.streamlit.app/) |
+| **TimeVault** | Time capsule web app | [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://timevault-black.vercel.app/) |
+| **BroSplit** | Gym split planner for bros 💪 | [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://brosplit.vercel.app/) |
+
+
+<a href="https://github.com/SamarthKapoor1721/timevault">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamarthKapoor1721&repo=timevault&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" />
+<a href="https://github.com/SamarthKapoor1721/caltrack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamarthKapoor1721&repo=caltrack&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" />
 </a>
 
 </div>
@@ -164,7 +172,7 @@ print(me.life_philosophy())
 
 ## ` > activity_graph `
 
-[![YOUR_USERNAME's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=FF00FF&line=00FFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Samarth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamarthKapoor1721&bg_color=0D1117&color=FF00FF&line=00FFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
