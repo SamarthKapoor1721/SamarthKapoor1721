@@ -114,8 +114,17 @@ print(me.life_philosophy())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamarthKapoor1721&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthKapoor1721&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF&langs_count=8" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamarthKapoor1721&theme=2077" />
+
+<br/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamarthKapoor1721&theme=2077" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamarthKapoor1721&theme=2077" />
+
+<br/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamarthKapoor1721&theme=2077" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamarthKapoor1721&theme=2077&utcOffset=5.5" />
 
 <br/>
 
