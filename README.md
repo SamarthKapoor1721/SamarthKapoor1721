@@ -6,7 +6,7 @@
 
 <!-- ━━━━━━━━━━━━━━━ HEADER BANNER ━━━━━━━━━━━━━━━ -->
 <a href="https://github.com/SamarthKapoor1721">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Samarth+Kapoor&fontSize=70&fontColor=ff00ff&animation=fadeIn&fontAlignY=38&desc=%3C%20Full-Stack%20Dev%20%2F%2F%20AI%20%2F%20ML%20Engineer%20%3E&descAlignY=58&descSize=18&descColor=00ffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=240&section=header&text=Samarth%20Kapoor&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%2F%2F%20AI%20%2F%20ML%20Engineer&descAlignY=58&descSize=20&descColor=00ffff" />
 </a>
 
 <!-- ━━━━━━━━━━━━━━━ TYPING ANIMATION ━━━━━━━━━━━━━━━ -->
@@ -119,7 +119,7 @@ print(me.life_philosophy())
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamarthKapoor1721&theme=synthwave&hide_border=true&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=FF00FF" />
+<img src="https://streak-stats.demolab.com/?user=SamarthKapoor1721&theme=synthwave&hide_border=true&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=FF00FF" />
 
 </div>
 
@@ -129,7 +129,11 @@ print(me.life_philosophy())
 
 <div align="center">
 
-![snake gif](https://github.com/SamarthKapoor1721/SamarthKapoor1721/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamarthKapoor1721/SamarthKapoor1721/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamarthKapoor1721/SamarthKapoor1721/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SamarthKapoor1721/SamarthKapoor1721/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -157,7 +161,6 @@ print(me.life_philosophy())
 | **FinShield AI** | AI finance protection & insights | [![Live](https://img.shields.io/badge/Live-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://finshieldai.streamlit.app/) |
 | **TimeVault** | Time capsule web app | [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://timevault-black.vercel.app/) |
 | **BroSplit** | Gym split planner for bros 💪 | [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://brosplit.vercel.app/) |
-
 
 <a href="https://github.com/SamarthKapoor1721/timevault">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamarthKapoor1721&repo=timevault&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" />
@@ -199,6 +202,6 @@ print(me.life_philosophy())
 ╚══════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=120&section=footer" />
 
 </div>
