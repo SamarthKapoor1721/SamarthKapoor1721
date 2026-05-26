@@ -6,7 +6,7 @@
 
 <!-- ━━━━━━━━━━━━━━━ HEADER BANNER ━━━━━━━━━━━━━━━ -->
 <a href="https://github.com/SamarthKapoor1721">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=240&section=header&text=Samarth%20Kapoor&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%2F%2F%20AI%20%2F%20ML%20Engineer&descAlignY=58&descSize=20&descColor=00ffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=240&section=header&text=Samarth%20Kapoor&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%7C%20Data%20Science%20%7C%7C%20FinTech%20Enthusiast&descAlignY=58&descSize=20&descColor=00ffff" />
 </a>
 
 <!-- ━━━━━━━━━━━━━━━ TYPING ANIMATION ━━━━━━━━━━━━━━━ -->
