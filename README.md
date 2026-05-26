@@ -114,8 +114,8 @@ print(me.life_philosophy())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SamarthKapoor1721&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF" />
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SamarthKapoor1721&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamarthKapoor1721&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthKapoor1721&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF&langs_count=8" />
 
 <br/>
 
@@ -163,10 +163,10 @@ print(me.life_philosophy())
 | **BroSplit** | Gym split planner for bros 💪 | [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://brosplit.vercel.app/) |
 
 <a href="https://github.com/SamarthKapoor1721/timevault">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SamarthKapoor1721&repo=timevault&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamarthKapoor1721&repo=timevault&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" />
 </a>
 <a href="https://github.com/SamarthKapoor1721/caltrack">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SamarthKapoor1721&repo=caltrack&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamarthKapoor1721&repo=caltrack&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" />
 </a>
 
 </div>
